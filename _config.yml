@@ -85,13 +85,13 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   Publications:
-    title: 'Publications'
+    title: "Publications"
   working_papers:
-    title: 'Working Papers'    
+    title: "Working Papers"    
   book_chapters:
-    title: 'Book Chapters'
+    title: "Book Chapters"
    conference_presentations:
-    title: 'Conference Presentations'
+    title: "Conference Presentations"
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
