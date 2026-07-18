@@ -11,7 +11,7 @@ paperurl: "https://panel.gelisim.edu.tr/assets/2026/dokumanlar/inmec/8-yeni-medy
 
 **Presentation**
 
-Presented the paper **"Thematic Evaluation of Research Trends in Privacy in Advertising"** at the **8th International New Media Conference**, themed **"Surveillance Capitalism: Algorithms and Culture,"** held on **4–5 December 2025** at Istanbul Gelisim University, Istanbul, Türkiye.
+Presented the conference abstract **"Thematic Evaluation of Research Trends in Privacy in Advertising"** at the **8th International New Media Conference**, themed **"Surveillance Capitalism: Algorithms and Culture,"** held on **4–5 December 2025** at Istanbul Gelisim University, Istanbul, Türkiye.
 
 Çınar, N., & Yahya, A. (2025). *Thematic Evaluation of Research Trends in Privacy in Advertising*. Presented at the **8th International New Media Conference**, themed **"Surveillance Capitalism: Algorithms and Culture"**, Istanbul Gelisim University, Istanbul, Türkiye.
 
